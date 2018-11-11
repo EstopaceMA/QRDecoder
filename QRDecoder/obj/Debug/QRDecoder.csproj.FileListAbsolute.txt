@@ -1,0 +1,14 @@
+c:\users\anthony\documents\visual studio 2013\Projects\QRDecoder\QRDecoder\bin\Debug\QRDecoder.pdb
+c:\users\anthony\documents\visual studio 2013\Projects\QRDecoder\QRDecoder\bin\Debug\AForge.dll
+c:\users\anthony\documents\visual studio 2013\Projects\QRDecoder\QRDecoder\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\anthony\documents\visual studio 2013\Projects\QRDecoder\QRDecoder\bin\Debug\AForge.Video.dll
+c:\users\anthony\documents\visual studio 2013\Projects\QRDecoder\QRDecoder\bin\Debug\zxing.dll
+c:\users\anthony\documents\visual studio 2013\Projects\QRDecoder\QRDecoder\obj\Debug\QRDecoder.csprojResolveAssemblyReference.cache
+c:\users\anthony\documents\visual studio 2013\Projects\QRDecoder\QRDecoder\obj\Debug\QRDecoder.Properties.Resources.resources
+c:\users\anthony\documents\visual studio 2013\Projects\QRDecoder\QRDecoder\obj\Debug\QRDecoder.csproj.GenerateResource.Cache
+c:\users\anthony\documents\visual studio 2013\Projects\QRDecoder\QRDecoder\obj\Debug\QRDecoder.pdb
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\QRDecoder\QRDecoder\obj\Debug\QRDecoder.QrScanner.resources
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\QRDecoder\QRDecoder\bin\Debug\QRDecoder.dll.config
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\QRDecoder\QRDecoder\bin\Debug\QRDecoder.dll
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\QRDecoder\QRDecoder\obj\Debug\QRDecoder.dll
+C:\Users\Anthony\Documents\Visual Studio 2013\Projects\QRDecoder\QRDecoder\bin\Debug\MetroFramework.dll
