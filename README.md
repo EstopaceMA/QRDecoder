@@ -17,3 +17,6 @@ It is a Desktop Application QrDecoder used to decode any QRCode with a beautiful
 <code> TextBox1.Text = scanner.DecodedQrCode; </code>
 
 <i>Note: TextBox1 is where the value of Decoded QrCode will be putted.</i>
+
+## Video Tutorial
+[QR Decoder Video Tutorial](https://www.facebook.com/groups/ProgrammersCodepostingPH/permalink/2063839870344907/)
